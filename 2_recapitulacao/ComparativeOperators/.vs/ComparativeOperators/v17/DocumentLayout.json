@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ComparativeOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C35DD14D-A138-470A-B228-1C2F564F584D}|ComparativeOperators\\ComparativeOperators.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\2_recapitulacao\\comparativeoperators\\comparativeoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35DD14D-A138-470A-B228-1C2F564F584D}|ComparativeOperators\\ComparativeOperators.csproj|solutionrelative:comparativeoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ComparativeOperators\\ComparativeOperators\\Program.cs",
+              "RelativeDocumentMoniker": "ComparativeOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ComparativeOperators\\ComparativeOperators\\Program.cs",
+              "RelativeToolTip": "ComparativeOperators\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:15:15.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
