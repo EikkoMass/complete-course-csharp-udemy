@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.exe
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\refint\ArithmeticOperators.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ArithmeticOperators\ArithmeticOperators\obj\Debug\net6.0\ref\ArithmeticOperators.dll
