@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.exe
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\refint\DataInput.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\DataInput\DataInput\obj\Debug\net6.0\ref\DataInput.dll

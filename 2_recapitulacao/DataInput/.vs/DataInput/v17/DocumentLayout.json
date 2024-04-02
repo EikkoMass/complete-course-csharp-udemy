@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\DataInput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B0D839-1EA6-4222-B7C0-7BC27BC6236D}|DataInput\\DataInput.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\2_recapitulacao\\datainput\\datainput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B0D839-1EA6-4222-B7C0-7BC27BC6236D}|DataInput\\DataInput.csproj|solutionrelative:datainput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\DataInput\\DataInput\\Program.cs",
+              "RelativeDocumentMoniker": "DataInput\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\DataInput\\DataInput\\Program.cs",
+              "RelativeToolTip": "DataInput\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:33:16.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
