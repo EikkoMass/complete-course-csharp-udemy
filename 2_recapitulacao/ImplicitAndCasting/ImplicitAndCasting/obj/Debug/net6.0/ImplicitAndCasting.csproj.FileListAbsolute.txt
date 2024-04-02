@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\bin\Debug\net6.0\ImplicitAndCasting.exe
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\bin\Debug\net6.0\ImplicitAndCasting.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\bin\Debug\net6.0\ImplicitAndCasting.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\bin\Debug\net6.0\ImplicitAndCasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\bin\Debug\net6.0\ImplicitAndCasting.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\refint\ImplicitAndCasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.pdb
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ImplicitAndCasting.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\2_recapitulacao\ImplicitAndCasting\ImplicitAndCasting\obj\Debug\net6.0\ref\ImplicitAndCasting.dll
