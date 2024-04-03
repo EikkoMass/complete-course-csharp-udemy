@@ -1,0 +1,1 @@
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\CriandoMetodoReaproveitamentoDelegacao\CriandoMetodoReaproveitamentoDelegacao\obj\Debug\net6.0\CriandoMetodoReaproveitamentoDelegacao.GeneratedMSBuildEditorConfig.editorconfig
