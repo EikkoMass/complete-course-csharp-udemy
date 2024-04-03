@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ForLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE8117-DC4E-4556-8DC4-881BA2747AD9}|ForLoop\\ForLoop.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\2_recapitulacao\\forloop\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE8117-DC4E-4556-8DC4-881BA2747AD9}|ForLoop\\ForLoop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ForLoop\\ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\2_recapitulacao\\ForLoop\\ForLoop\\Program.cs",
+              "RelativeToolTip": "ForLoop\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:33:29.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
