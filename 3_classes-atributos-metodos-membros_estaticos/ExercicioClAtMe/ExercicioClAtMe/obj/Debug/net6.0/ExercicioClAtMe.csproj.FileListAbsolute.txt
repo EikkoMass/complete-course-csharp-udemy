@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\bin\Debug\net6.0\ExercicioClAtMe.exe
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\bin\Debug\net6.0\ExercicioClAtMe.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\bin\Debug\net6.0\ExercicioClAtMe.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\bin\Debug\net6.0\ExercicioClAtMe.dll
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\bin\Debug\net6.0\ExercicioClAtMe.pdb
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.dll
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\refint\ExercicioClAtMe.dll
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.pdb
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ExercicioClAtMe.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\3_classes-atributos-metodos-membros_estaticos\ExercicioClAtMe\ExercicioClAtMe\obj\Debug\net6.0\ref\ExercicioClAtMe.dll
