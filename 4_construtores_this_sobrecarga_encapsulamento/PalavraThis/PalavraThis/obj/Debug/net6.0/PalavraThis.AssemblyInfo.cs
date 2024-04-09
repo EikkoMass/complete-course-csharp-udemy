@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SintaxeAlternativaInicializacao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PalavraThis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c091be24c633f9e04a238c4a74ad1404548fee6b")]
-[assembly: System.Reflection.AssemblyProductAttribute("SintaxeAlternativaInicializacao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SintaxeAlternativaInicializacao")]
+[assembly: System.Reflection.AssemblyProductAttribute("PalavraThis")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PalavraThis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
