@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\sobrecarga\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\sobrecarga\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\sobrecarga\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29378B9A-E7A4-4970-915D-7B2F365A0704}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Produto.cs",
-              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
-              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Produto.cs",
-              "RelativeToolTip": "Sobrecarga\\Produto.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA7wAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:04:25.562Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -52,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeToolTip": "Sobrecarga\\Produto.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:04:25.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Program.cs",
               "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
               "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\4_construtores_this_sobrecarga_encapsulamento\\Sobrecarga\\Sobrecarga\\Program.cs",
               "RelativeToolTip": "Sobrecarga\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAeAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwBsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T19:01:50.388Z",
               "EditorCaption": ""
