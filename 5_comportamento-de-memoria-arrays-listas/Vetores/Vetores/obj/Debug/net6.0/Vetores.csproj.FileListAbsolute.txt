@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\bin\Debug\net6.0\Vetores.exe
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\bin\Debug\net6.0\Vetores.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\bin\Debug\net6.0\Vetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\bin\Debug\net6.0\Vetores.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\refint\Vetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\Vetores\Vetores\obj\Debug\net6.0\ref\Vetores.dll
