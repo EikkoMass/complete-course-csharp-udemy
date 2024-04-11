@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net6.0\ModificadorRefOut.exe
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net6.0\ModificadorRefOut.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net6.0\ModificadorRefOut.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net6.0\ModificadorRefOut.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net6.0\ModificadorRefOut.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\refint\ModificadorRefOut.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ModificadorRefOut.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net6.0\ref\ModificadorRefOut.dll
