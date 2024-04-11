@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.exe
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.dll
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.pdb
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.dll
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\refint\AutoProperties.dll
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.pdb
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\4_construtores-this-sobrecarga-encapsulamento\AutoProperties\AutoProperties\obj\Debug\net6.0\ref\AutoProperties.dll
