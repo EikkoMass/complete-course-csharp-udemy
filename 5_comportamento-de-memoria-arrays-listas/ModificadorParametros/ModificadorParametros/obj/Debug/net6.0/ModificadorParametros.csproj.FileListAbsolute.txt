@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\bin\Debug\net6.0\ModificadorParametros.exe
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\bin\Debug\net6.0\ModificadorParametros.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\bin\Debug\net6.0\ModificadorParametros.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\bin\Debug\net6.0\ModificadorParametros.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\bin\Debug\net6.0\ModificadorParametros.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\refint\ModificadorParametros.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ModificadorParametros.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ModificadorParametros\ModificadorParametros\obj\Debug\net6.0\ref\ModificadorParametros.dll
