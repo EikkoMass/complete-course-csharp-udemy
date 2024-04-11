@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net6.0\ExercicioFixacaoVetores.exe
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net6.0\ExercicioFixacaoVetores.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net6.0\ExercicioFixacaoVetores.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net6.0\ExercicioFixacaoVetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net6.0\ExercicioFixacaoVetores.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\refint\ExercicioFixacaoVetores.dll
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.pdb
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ExercicioFixacaoVetores.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\5_comportamento-de-memoria-arrays-listas\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net6.0\ref\ExercicioFixacaoVetores.dll
