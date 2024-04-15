@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sopJgAoWm1SN79mI6DDPiABSZS5X4y1wlcLwJCU9paAyjMh9o2/C6CpAzM88u2nMDrIOctM/tkvtTCM9pWE/jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\5_comportamento-de-memoria-arrays-listas\\ExercicioFixacaoMatrizes\\ExercicioFixacaoMatrizes\\ExercicioFixacaoMatrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
