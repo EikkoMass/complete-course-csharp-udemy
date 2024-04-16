@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\bin\Debug\net6.0\FormatoTimeSpan.exe
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\bin\Debug\net6.0\FormatoTimeSpan.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\bin\Debug\net6.0\FormatoTimeSpan.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\bin\Debug\net6.0\FormatoTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\bin\Debug\net6.0\FormatoTimeSpan.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\refint\FormatoTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\FormatoTimeSpan.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\FormatoTimeSpan\FormatoTimeSpan\obj\Debug\net6.0\ref\FormatoTimeSpan.dll

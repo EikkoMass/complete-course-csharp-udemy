@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SurmGvn+Dvfc+AC2raBGKJsEmemwvTk68zY3sUzP3IVPV3ptOyP5b7GYICVP7B+cd6cirHvfjpIJXGBf9idrvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\6_topicos-essenciais-em-csharp\\FormatoTimeSpan\\FormatoTimeSpan\\FormatoTimeSpan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
