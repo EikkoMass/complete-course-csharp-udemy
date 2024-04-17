@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.exe
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\bin\Debug\net6.0\OperacoesDateTime.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\refint\OperacoesDateTime.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\OperacoesDateTime.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesDateTime\OperacoesDateTime\obj\Debug\net6.0\ref\OperacoesDateTime.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/j6Da4K9wi48QqNn/1/hU9bvX/VvE/ubGMVbq/DkTOE2W2PwTvUh05e42jOFUDxSeeCwp8QIV7P3KOnyz8vLDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\6_topicos-essenciais-em-csharp\\OperacoesDateTime\\OperacoesDateTime\\OperacoesDateTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
