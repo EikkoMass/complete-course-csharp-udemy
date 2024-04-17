@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net6.0\OperacoesTimeSpan.exe
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net6.0\OperacoesTimeSpan.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net6.0\OperacoesTimeSpan.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net6.0\OperacoesTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\net6.0\OperacoesTimeSpan.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\refint\OperacoesTimeSpan.dll
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.pdb
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\OperacoesTimeSpan.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\6_topicos-essenciais-em-csharp\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\net6.0\ref\OperacoesTimeSpan.dll
