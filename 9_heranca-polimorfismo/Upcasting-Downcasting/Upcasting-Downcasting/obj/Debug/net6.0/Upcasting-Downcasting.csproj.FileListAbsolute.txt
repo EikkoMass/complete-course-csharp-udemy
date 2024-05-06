@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\bin\Debug\net6.0\Upcasting-Downcasting.exe
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\bin\Debug\net6.0\Upcasting-Downcasting.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\bin\Debug\net6.0\Upcasting-Downcasting.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\bin\Debug\net6.0\Upcasting-Downcasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\bin\Debug\net6.0\Upcasting-Downcasting.pdb
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\refint\Upcasting-Downcasting.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.pdb
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\Upcasting-Downcasting.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\Upcasting-Downcasting\Upcasting-Downcasting\obj\Debug\net6.0\ref\Upcasting-Downcasting.dll
