@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\8_enumeracoes-composicao\\enumerations\\enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\8_enumeracoes-composicao\\enumerations\\enumerations\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\8_enumeracoes-composicao\\enumerations\\enumerations\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF221F9-C15F-44FE-B58E-0D0AF6B2AD02}|Enumerations\\Enumerations.csproj|solutionrelative:enumerations\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enumerations\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:31:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Entities\\Order.cs",
+              "RelativeToolTip": "Enumerations\\Entities\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:28:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeDocumentMoniker": "Enumerations\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\8_enumeracoes-composicao\\Enumerations\\Enumerations\\Program.cs",
+              "RelativeToolTip": "Enumerations\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:23:59.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

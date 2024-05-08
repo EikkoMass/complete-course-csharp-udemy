@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\9_heranca-polimorfismo\\sobreposicaovirtualoverride\\sobreposicaovirtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|solutionrelative:sobreposicaovirtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\9_heranca-polimorfismo\\sobreposicaovirtualoverride\\sobreposicaovirtualoverride\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|solutionrelative:sobreposicaovirtualoverride\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\9_heranca-polimorfismo\\sobreposicaovirtualoverride\\sobreposicaovirtualoverride\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|solutionrelative:sobreposicaovirtualoverride\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|c:\\users\\dev\\documents\\dev\\csharp-study\\9_heranca-polimorfismo\\sobreposicaovirtualoverride\\sobreposicaovirtualoverride\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1111C6-814A-41CD-964F-EBD322CCC7F0}|SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride.csproj|solutionrelative:sobreposicaovirtualoverride\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoVirtualOverride\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "SobreposicaoVirtualOverride\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:33:59.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SobreposicaoVirtualOverride\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "SobreposicaoVirtualOverride\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:33:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "SobreposicaoVirtualOverride\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Entities\\Account.cs",
+              "RelativeToolTip": "SobreposicaoVirtualOverride\\Entities\\Account.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:33:05.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Program.cs",
+              "RelativeDocumentMoniker": "SobreposicaoVirtualOverride\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Dev\\csharp-study\\9_heranca-polimorfismo\\SobreposicaoVirtualOverride\\SobreposicaoVirtualOverride\\Program.cs",
+              "RelativeToolTip": "SobreposicaoVirtualOverride\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:30:28.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
