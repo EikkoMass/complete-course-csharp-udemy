@@ -1,0 +1,15 @@
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\bin\Debug\net6.0\SobreposicaoVirtualOverride.exe
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\bin\Debug\net6.0\SobreposicaoVirtualOverride.deps.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\bin\Debug\net6.0\SobreposicaoVirtualOverride.runtimeconfig.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\bin\Debug\net6.0\SobreposicaoVirtualOverride.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\bin\Debug\net6.0\SobreposicaoVirtualOverride.pdb
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.AssemblyInfo.cs
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.sourcelink.json
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\refint\SobreposicaoVirtualOverride.dll
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.pdb
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\SobreposicaoVirtualOverride.genruntimeconfig.cache
+C:\Users\dev\Documents\Dev\csharp-study\9_heranca-polimorfismo\SobreposicaoVirtualOverride\SobreposicaoVirtualOverride\obj\Debug\net6.0\ref\SobreposicaoVirtualOverride.dll

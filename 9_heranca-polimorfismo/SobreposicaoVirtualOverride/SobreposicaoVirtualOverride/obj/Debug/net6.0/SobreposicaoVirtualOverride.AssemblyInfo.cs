@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Upcasting-Downcasting")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SobreposicaoVirtualOverride")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c9418a89d8e0997179089b8c59257187f30bb76")]
-[assembly: System.Reflection.AssemblyProductAttribute("Upcasting-Downcasting")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Upcasting-Downcasting")]
+[assembly: System.Reflection.AssemblyProductAttribute("SobreposicaoVirtualOverride")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SobreposicaoVirtualOverride")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
