@@ -1,4 +1,5 @@
 ﻿using tabuleiro;
+using xadrez;
 using XadrezConsole.xadrez;
 
 namespace XadrezConsole
@@ -9,15 +10,12 @@ namespace XadrezConsole
         {
             try
             {
-                Tabuleiro tab = new Tabuleiro(8, 8);
+                PosicaoXadrez poxa = new PosicaoXadrez('c', 7);
 
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
+                Console.WriteLine(poxa);
+                Console.WriteLine(poxa.toPosicao());
+             //   Tela.imprimirTabuleiro(tab);
 
-                Tela.imprimirTabuleiro(tab);
-
-                //   Console.WriteLine($"Posição: {posicao}");
             } catch (Exception e)
             {
                 Console.WriteLine(e.Message);
