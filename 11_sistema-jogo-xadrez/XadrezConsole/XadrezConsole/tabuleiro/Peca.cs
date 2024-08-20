@@ -16,6 +16,11 @@
             this.tab = tab;
         }
 
+        public void incrementarQteMovimentos()
+        {
+            this.qteMovimentos++;
+        }
+
 
     }
 }
