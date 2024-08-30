@@ -29,7 +29,7 @@ namespace XadrezConsole.xadrez
             Posicao pos = new Posicao(0, 0);
 
             //acima
-            pos.definirValores(pos.linha - 1, pos.coluna);
+            pos.definirValores(posicao.linha - 1, posicao.coluna);
 
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -44,7 +44,7 @@ namespace XadrezConsole.xadrez
             }
 
             //abaixo
-            pos.definirValores(pos.linha + 1, pos.coluna);
+            pos.definirValores(posicao.linha + 1, posicao.coluna);
 
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -59,7 +59,7 @@ namespace XadrezConsole.xadrez
             }
 
             //direita
-            pos.definirValores(pos.linha, pos.coluna + 1);
+            pos.definirValores(posicao.linha, posicao.coluna + 1);
 
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -74,7 +74,7 @@ namespace XadrezConsole.xadrez
             }
 
             //esquerda
-            pos.definirValores(pos.linha, pos.coluna - 1);
+            pos.definirValores(posicao.linha, posicao.coluna - 1);
 
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
