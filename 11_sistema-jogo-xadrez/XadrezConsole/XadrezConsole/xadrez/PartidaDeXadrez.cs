@@ -6,8 +6,8 @@ namespace xadrez
     class PartidaDeXadrez
     {
         public Tabuleiro tabuleiro { get; private set; }
-        private int turno;
-        private Cor jogadorAtual;
+        public int turno { get; private set; }
+        public Cor jogadorAtual { get; private set; }
         public bool terminada { get; private set; }
 
         public PartidaDeXadrez()
@@ -36,6 +36,24 @@ namespace xadrez
             tabuleiro.colocarPeca(new Torre(tabuleiro, Cor.Preta), new PosicaoXadrez('e', 8).toPosicao());
             tabuleiro.colocarPeca(new Rei(tabuleiro, Cor.Preta), new PosicaoXadrez('d', 8).toPosicao());
 
+        }
+
+        public void realizaJogada(Posicao origem, Posicao destino) 
+        {
+            executaMovimento(origem, destino);
+            turno++;
+            mudaJogador();
+        }
+
+        public void mudaJogador()
+        {
+            if (jogadorAtual == Cor.Branca)
+            {
+                jogadorAtual = Cor.Preta;
+            } else
+            {
+                jogadorAtual = Cor.Branca;
+            }
         }
 
         public void executaMovimento(Posicao origem, Posicao destino)
