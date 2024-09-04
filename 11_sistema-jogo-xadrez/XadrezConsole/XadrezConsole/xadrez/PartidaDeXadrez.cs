@@ -1,4 +1,5 @@
 ﻿using tabuleiro;
+using XadrezConsole.tabuleiro;
 using XadrezConsole.xadrez;
 
 namespace xadrez
@@ -43,6 +44,24 @@ namespace xadrez
             executaMovimento(origem, destino);
             turno++;
             mudaJogador();
+        }
+
+        public void validarPosicaoDeOrigem(Posicao pos)
+        {
+            if(tabuleiro.peca(pos) == null)
+            {
+                throw new TabuleiroException("Não existe peça na posição de origem escolhida!");
+            }
+        
+            if(jogadorAtual != tabuleiro.peca(pos).cor)
+            {
+                throw new TabuleiroException("A peça de origem escolhida não é sua!");
+            }
+
+            if(!tabuleiro.peca(pos).existeMovimentosPossiveis())
+            {
+                throw new TabuleiroException("Não há movimentos possíveis para a peça de origem escolhida!");
+            }
         }
 
         public void mudaJogador()
