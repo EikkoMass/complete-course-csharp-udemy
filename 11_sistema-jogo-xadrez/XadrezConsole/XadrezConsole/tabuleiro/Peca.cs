@@ -44,6 +44,11 @@
             this.qteMovimentos++;
         }
 
+        public void decrementarQteMovimentos()
+        {
+            this.qteMovimentos--;
+        }
+
         public abstract bool[,] movimentosPossiveis();
 
     }
