@@ -90,7 +90,7 @@ namespace xadrez
         public HashSet<Peca> pecasEmJogo(Cor cor)
         {
             HashSet<Peca> aux = new HashSet<Peca>();
-            foreach (Peca peca in capturadas)
+            foreach (Peca peca in pecas)
             {
                 if (peca.cor == cor)
                 {
@@ -135,10 +135,7 @@ namespace xadrez
                 throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
 
-            if(estaEmXeque(adversaria(jogadorAtual)))
-            {
-                xeque = true;
-            }
+            xeque = estaEmXeque(adversaria(jogadorAtual));
 
             turno++;
             mudaJogador();
