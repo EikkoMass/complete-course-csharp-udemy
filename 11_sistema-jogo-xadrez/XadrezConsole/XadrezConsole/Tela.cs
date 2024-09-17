@@ -33,9 +33,16 @@ namespace XadrezConsole
             Console.WriteLine($"Aguardando jogada: {partida.jogadorAtual}");
             Console.WriteLine();
 
-            if(partida.xeque)
+            if (!partida.terminada)
             {
-                Console.WriteLine("Xeque!");
+                if (partida.xeque)
+                {
+                    Console.WriteLine("Xeque!");
+                }
+            } else
+            {
+                Console.WriteLine("XEQUEMATE!");
+                Console.WriteLine($"Vencedor: {partida.jogadorAtual}");
             }
 
         }
