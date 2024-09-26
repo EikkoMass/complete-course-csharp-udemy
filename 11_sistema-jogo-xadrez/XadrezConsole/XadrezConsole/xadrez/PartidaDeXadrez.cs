@@ -227,6 +227,33 @@ namespace xadrez
             }
 
             tabuleiro.colocarPeca(p, origem);
+
+
+            // #jogadaespecial roque pequeno
+            if (p is Rei && destino.coluna == origem.coluna + 2)
+            {
+
+                Posicao origemTorre = new Posicao(origem.linha, origem.coluna + 3);
+                Posicao destinoTorre = new Posicao(origem.linha, origem.coluna + 1);
+
+                Peca torre = tabuleiro.retirarPeca(destinoTorre);
+
+                torre.decrementarQteMovimentos();
+                tabuleiro.colocarPeca(torre, origemTorre);
+            }
+
+            // #jogadaespecial roque grande
+            if (p is Rei && destino.coluna == origem.coluna - 2)
+            {
+
+                Posicao origemTorre = new Posicao(origem.linha, origem.coluna - 4);
+                Posicao destinoTorre = new Posicao(origem.linha, origem.coluna - 1);
+
+                Peca torre = tabuleiro.retirarPeca(destinoTorre);
+
+                torre.decrementarQteMovimentos();
+                tabuleiro.colocarPeca(torre, origemTorre);
+            }
         }
 
         public void validarPosicaoDeOrigem(Posicao pos)
@@ -277,6 +304,31 @@ namespace xadrez
 
             if (pecaCapturada != null) { 
                 capturadas.Add(pecaCapturada);
+            }
+
+            // #jogadaespecial roque pequeno
+            if (p is Rei && destino.coluna == origem.coluna + 2) {
+
+                Posicao origemTorre = new Posicao(origem.linha, origem.coluna + 3);
+                Posicao destinoTorre = new Posicao(origem.linha, origem.coluna + 1);
+
+                Peca torre = tabuleiro.retirarPeca(origemTorre);
+
+                torre.incrementarQteMovimentos();
+                tabuleiro.colocarPeca(torre, destinoTorre);
+            }
+
+            // #jogadaespecial roque grande
+            if (p is Rei && destino.coluna == origem.coluna - 2)
+            {
+
+                Posicao origemTorre = new Posicao(origem.linha, origem.coluna - 4);
+                Posicao destinoTorre = new Posicao(origem.linha, origem.coluna - 1);
+
+                Peca torre = tabuleiro.retirarPeca(origemTorre);
+
+                torre.incrementarQteMovimentos();
+                tabuleiro.colocarPeca(torre, destinoTorre);
             }
 
             return pecaCapturada;
