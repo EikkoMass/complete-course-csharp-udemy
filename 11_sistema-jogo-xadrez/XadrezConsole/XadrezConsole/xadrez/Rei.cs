@@ -28,7 +28,7 @@ namespace XadrezConsole.xadrez
         {
             Peca p = tab.peca(pos);
 
-            return p != null && p is Torre && p.cor != cor && p.qteMovimentos == 0;
+            return p != null && p is Torre && p.cor == cor && p.qteMovimentos == 0;
         }
 
 
