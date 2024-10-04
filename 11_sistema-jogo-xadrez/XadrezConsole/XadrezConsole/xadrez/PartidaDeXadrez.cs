@@ -15,7 +15,7 @@ namespace xadrez
 
         public bool xeque { get; private set; }
 
-        private Peca vulneravelEnPassant;
+        public Peca vulneravelEnPassant { get; private set; }
 
         public PartidaDeXadrez()
         {
