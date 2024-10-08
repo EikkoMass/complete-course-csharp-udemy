@@ -270,6 +270,28 @@ namespace xadrez
                 torre.decrementarQteMovimentos();
                 tabuleiro.colocarPeca(torre, origemTorre);
             }
+
+            // #jogadaespecial en passant
+
+            if (p is Peao)
+            {
+                if (origem.coluna != destino.coluna && pecaCapturada == vulneravelEnPassant)
+                {
+                    Peca peao = tabuleiro.retirarPeca(destino);
+                    Posicao posP;
+
+                    if (p.cor == Cor.Branca)
+                    {
+                        posP = new Posicao(3, destino.coluna);
+                    }
+                    else
+                    {
+                        posP = new Posicao(4, destino.coluna);
+                    }
+
+                    tabuleiro.colocarPeca(peao, posP);
+                }
+            }
         }
 
         public void validarPosicaoDeOrigem(Posicao pos)
@@ -345,6 +367,29 @@ namespace xadrez
 
                 torre.incrementarQteMovimentos();
                 tabuleiro.colocarPeca(torre, destinoTorre);
+            }
+
+            // #jogadaespecial en passant
+            
+            if(p is Peao)
+            {
+                if(origem.coluna != destino.coluna && pecaCapturada == null)
+                {
+                    Posicao posP;
+
+                    if(p.cor == Cor.Branca)
+                    {
+                        posP = new Posicao(destino.linha + 1, destino.coluna);
+                    }
+                    else
+                    {
+                        posP = new Posicao(destino.linha - 1, destino.coluna);
+                    }
+
+                    pecaCapturada = tabuleiro.retirarPeca(posP);
+                    capturadas.Add(pecaCapturada);
+                }
+
             }
 
             return pecaCapturada;
