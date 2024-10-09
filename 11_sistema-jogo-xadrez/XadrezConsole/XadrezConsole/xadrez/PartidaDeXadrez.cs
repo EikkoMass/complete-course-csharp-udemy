@@ -159,14 +159,14 @@ namespace xadrez
             colocarNovaPeca('g', 1, new Cavalo(tabuleiro, Cor.Branca));
             colocarNovaPeca('h', 1, new Torre(tabuleiro, Cor.Branca));
 
-            colocarNovaPeca('a', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('b', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('c', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('d', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('e', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('f', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('g', 2, new Peao(tabuleiro, Cor.Branca));
-            colocarNovaPeca('h', 2, new Peao(tabuleiro, Cor.Branca));
+            colocarNovaPeca('a', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('b', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('c', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('d', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('e', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('f', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('g', 2, new Peao(tabuleiro, Cor.Branca, this));
+            colocarNovaPeca('h', 2, new Peao(tabuleiro, Cor.Branca, this));
 
 
             colocarNovaPeca('a', 8, new Torre(tabuleiro, Cor.Preta));
@@ -178,14 +178,14 @@ namespace xadrez
             colocarNovaPeca('g', 8, new Cavalo(tabuleiro, Cor.Preta));
             colocarNovaPeca('h', 8, new Torre(tabuleiro, Cor.Preta));
 
-            colocarNovaPeca('a', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('b', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('c', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('d', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('e', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('f', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('g', 7, new Peao(tabuleiro, Cor.Preta));
-            colocarNovaPeca('h', 7, new Peao(tabuleiro, Cor.Preta));
+            colocarNovaPeca('a', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('b', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('c', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('d', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('e', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('f', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('g', 7, new Peao(tabuleiro, Cor.Preta, this));
+            colocarNovaPeca('h', 7, new Peao(tabuleiro, Cor.Preta, this));
 
         }
 
