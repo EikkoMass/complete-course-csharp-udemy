@@ -46,6 +46,22 @@ public class Program
         Console.WriteLine("First or Default test2: " + products.Where(p => p.Price > 3000).FirstOrDefault());
         Console.WriteLine("Single or Default test1: " + products.Where(p => p.Id == 3).SingleOrDefault());
         Console.WriteLine("Single or Default test2: " + products.Where(p => p.Id == 30).SingleOrDefault());
+        Console.WriteLine("Max Price: " + products.Max(p => p.Price));
+        Console.WriteLine("Min Price: " + products.Min(p => p.Price));
+        Console.WriteLine("Category 1 Sum prices: " + products.Where(p => p.Category.Id == 1).Sum(p => p.Price));
+        Console.WriteLine("Category 1 Average prices: " + products.Where(p => p.Category.Id == 1).Average(p => p.Price));
+        Console.WriteLine("Category 5 Average prices: " + products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average());
+        Console.WriteLine("Category 1 Aggregate prices: " + products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y));
 
+        foreach (IGrouping<Category, Product> group in products.GroupBy(p => p.Category))
+        {
+            Console.WriteLine($"Category {group.Key.Name}: ");
+            foreach (Product product in group)
+            {
+                Console.WriteLine(product);
+            }
+
+            Console.WriteLine();
+        }
     }
 }
